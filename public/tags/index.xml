@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo lives here</title>
+    <link>http://hugo.david.work/tags/</link>
+    <description>Recent content in Tags on Hugo lives here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 15:55:34 +1300</lastBuildDate>
+    
+	<atom:link href="http://hugo.david.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Powerful Authoring Tool</title>
+      <link>http://hugo.david.work/tags/a-powerful-authoring-tool/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/a-powerful-authoring-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Csharp</title>
+      <link>http://hugo.david.work/tags/csharp/</link>
+      <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/csharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ending</title>
+      <link>http://hugo.david.work/tags/ending/</link>
+      <pubDate>Sat, 01 Dec 2018 15:51:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/ending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://hugo.david.work/tags/experience/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>http://hugo.david.work/tags/feature/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor</title>
+      <link>http://hugo.david.work/tags/floor/</link>
+      <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/floor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Centric</title>
+      <link>http://hugo.david.work/tags/learning-centric/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/learning-centric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Management</title>
+      <link>http://hugo.david.work/tags/learning-management/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/learning-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rug</title>
+      <link>http://hugo.david.work/tags/rug/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/rug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>http://hugo.david.work/tags/start/</link>
+      <pubDate>Sat, 01 Dec 2018 15:51:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://hugo.david.work/tags/video/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/tags/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

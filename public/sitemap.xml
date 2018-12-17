@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugo.david.work/posts/my-code-post/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/features/features-3/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/features/features-1/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/features/features-2/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/features/features-4/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/my-1-post/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/features/features-5/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/my-first-post/</loc>
+    <lastmod>2018-12-01T15:51:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/a-powerful-authoring-tool/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/api/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/code/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/coding/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/csharp/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/ending/</loc>
+    <lastmod>2018-12-01T15:51:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/experience/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/feature/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/feature/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/floor/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/learning-centric/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/learning-management/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/posts/</loc>
+    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/rug/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/start/</loc>
+    <lastmod>2018-12-01T15:51:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/categories/testing/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.david.work/tags/video/</loc>
+    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

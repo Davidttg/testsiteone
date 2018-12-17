@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature on Hugo lives here</title>
+    <link>http://hugo.david.work/tags/feature/</link>
+    <description>Recent content in Feature on Hugo lives here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 15:55:34 +1300</lastBuildDate>
+    
+	<atom:link href="http://hugo.david.work/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A POWERFUL AUTHORING TOOL</title>
+      <link>http://hugo.david.work/posts/features/features-3/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/posts/features/features-3/</guid>
+      <description>A POWERFUL AUTHORING TOOL Content Bring your content to life with our simple and flexible editing tool.
+Interactions Author using a suit of interaction types that help you engage your learners.
+Media Seamlessly embed an array of media including YouTube videos.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://hugo.david.work/posts/features/features-1/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/posts/features/features-1/</guid>
+      <description>Experience Our team of educational experts, instructional designers, and developers are here to support you every step of the way, from planning through to release and ongoing success.
+Whether you author your content in Bracken yourself or get us to do it, our experts will give you the tools and knowledge required to create training modules that suit the needs of your learners.
+Your site will always be up to date with any future developments to Bracken.</description>
+    </item>
+    
+    <item>
+      <title>LEARNING CENTRIC</title>
+      <link>http://hugo.david.work/posts/features/features-2/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/posts/features/features-2/</guid>
+      <description>LEARNING CENTRIC Bracken guides learners through their training using pathways. Pathways help by assigning the right learning at the right times to ensure the learner is receiving clear and relevant information.
+Learning is broken into small chunks, which are rich in media and interactive, which help motivate, focus attention and improve retention. While also providing personalised feedback along the way, to ensure they understand the information.
+The text-to-speech function in Bracken makes courses accessible to learners with literacy or visual difficulties.</description>
+    </item>
+    
+    <item>
+      <title>LEARNING MANAGEMENT</title>
+      <link>http://hugo.david.work/posts/features/features-4/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/posts/features/features-4/</guid>
+      <description>LEARNING MANAGEMENT Making sure the right messages get in front of the learner at the right time, knowing they have completed it and that they have understood the information.
+With Bracken, you can easily assign learners their training, follow their progress, provide feedback and prove they have completed the work, all in the same space.
+Being online means learners can access the information anytime, anywhere and at their own pace.</description>
+    </item>
+    
+    <item>
+      <title>VIDEO</title>
+      <link>http://hugo.david.work/posts/features/features-5/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/posts/features/features-5/</guid>
+      <description>VIDEO The video capabilities in Bracken set us apart. With over 20 years experience creating world leading video tools.
+Create interactions where learners view, review and analyse scenarios to get a greater understanding.
+Compress and upload videos directly from our native iOS app or desktop applications.</description>
+    </item>
+    
+  </channel>
+</rss>

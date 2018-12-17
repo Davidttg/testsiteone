@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugo lives here</title>
+    <link>http://hugo.david.work/categories/</link>
+    <description>Recent content in Categories on Hugo lives here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Dec 2018 15:55:34 +1300</lastBuildDate>
+    
+	<atom:link href="http://hugo.david.work/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api</title>
+      <link>http://hugo.david.work/categories/api/</link>
+      <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/categories/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://hugo.david.work/categories/code/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://hugo.david.work/categories/coding/</link>
+      <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>http://hugo.david.work/categories/feature/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/categories/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://hugo.david.work/categories/testing/</link>
+      <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
+      
+      <guid>http://hugo.david.work/categories/testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
