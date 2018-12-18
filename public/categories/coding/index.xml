@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coding on Hugo lives here</title>
-    <link>http://hugo.david.work/categories/coding/</link>
-    <description>Recent content in Coding on Hugo lives here</description>
+    <title>Coding on Something lives here</title>
+    <link>https://amazing-lumiere-f876d4.netlify.com/categories/coding/</link>
+    <description>Recent content in Coding on Something lives here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Dec 2018 15:55:34 +1300</lastBuildDate>
     
-	<atom:link href="http://hugo.david.work/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-lumiere-f876d4.netlify.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Code</title>
-      <link>http://hugo.david.work/posts/my-code-post/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/posts/my-code-post/</link>
       <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/posts/my-code-post/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/posts/my-code-post/</guid>
       <description>Init the code We start with public void we don&amp;rsquo;t wish to alarm people
 var fileDialog = new System.Windows.Forms.OpenFileDialog(); fileDialog.Filter = &amp;quot;Image files (*.jpg)|*.jpg|All files (*.*)|*.*&amp;quot;; var result = fileDialog.ShowDialog(); switch (result) { case System.Windows.Forms.DialogResult.OK: var file = fileDialog.FileName; TxtImgFile.Text = file; TxtImgFile.ToolTip = file; break; case System.Windows.Forms.DialogResult.Cancel: default: TxtImgFile.Text = null; TxtImgFile.ToolTip = null; break; }  Testing the code function uuid() { function randomDigit() { if (crypto &amp;amp;&amp;amp; crypto.</description>
     </item>

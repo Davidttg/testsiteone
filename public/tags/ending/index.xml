@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ending on Hugo lives here</title>
-    <link>http://hugo.david.work/tags/ending/</link>
-    <description>Recent content in Ending on Hugo lives here</description>
+    <title>Ending on Something lives here</title>
+    <link>https://amazing-lumiere-f876d4.netlify.com/tags/ending/</link>
+    <description>Recent content in Ending on Something lives here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Dec 2018 15:51:34 +1300</lastBuildDate>
     
-	<atom:link href="http://hugo.david.work/tags/ending/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-lumiere-f876d4.netlify.com/tags/ending/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The beginning</title>
-      <link>http://hugo.david.work/posts/my-first-post/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/posts/my-first-post/</link>
       <pubDate>Sat, 01 Dec 2018 15:51:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/posts/my-first-post/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/posts/my-first-post/</guid>
       <description>At the start Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus et ipsum ut blandit. Curabitur blandit sem ante, interdum placerat velit ornare id. Curabitur velit eros, ullamcorper et efficitur a, rhoncus a urna. Suspendisse a aliquam elit. Morbi sed felis orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</description>
     </item>
     

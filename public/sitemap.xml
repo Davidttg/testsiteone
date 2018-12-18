@@ -3,214 +3,260 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hugo.david.work/posts/my-code-post/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/2018-12-18-local-edit/</loc>
+    <lastmod>2018-12-18T00:34:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/live-on-netlify/</loc>
+    <lastmod>2018-12-18T12:22:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/my-code-post/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/features/features-3/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-3/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/features/features-1/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-1/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/features/features-2/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-2/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/features/features-4/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-4/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/my-1-post/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/my-1-post/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/features/features-5/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-5/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/my-first-post/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/my-first-post/</loc>
     <lastmod>2018-12-01T15:51:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/a-powerful-authoring-tool/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/a-powerful-authoring-tool/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/about/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/api/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/api/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/code/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/code/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/coding/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/coding/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/contact/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/csharp/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/csharp/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/ending/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/ending/</loc>
     <lastmod>2018-12-01T15:51:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/experience/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/experience/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/feature/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/feature/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/feature/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/feature/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/floor/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/floor/</loc>
     <lastmod>2018-12-15T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/</loc>
-    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hugo.david.work/tags/learning-centric/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/learning-centric/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/learning-management/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/learning-management/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/posts/</loc>
-    <lastmod>2018-12-15T15:55:34+13:00</lastmod>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/local/</loc>
+    <lastmod>2018-12-18T00:34:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/rug/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/news/</loc>
+    <lastmod>2018-12-18T12:22:34+13:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/page/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/posts/</loc>
+    <lastmod>2018-12-18T00:34:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/rug/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/services/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/page/second-test/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/start/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/</loc>
+    <lastmod>2018-12-18T00:34:36+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/start/</loc>
     <lastmod>2018-12-01T15:51:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/categories/testing/</loc>
-    <lastmod>2018-12-02T15:55:34+13:00</lastmod>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/categories/testing/</loc>
+    <lastmod>2018-12-18T00:34:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.david.work/tags/video/</loc>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/page/testing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-lumiere-f876d4.netlify.com/tags/video/</loc>
     <lastmod>2018-12-02T15:55:34+13:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

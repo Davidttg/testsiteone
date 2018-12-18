@@ -20,3 +20,9 @@ Using Bracken’s authoring tools, your content can be transformed into engaging
 ### Deploy
 
 Your learners will experience your content in a site built to maximise their experience and learning retention. 
+
+This is a link to the [second test page](/page/second-test/)
+
+see [categories](/categories/)
+
+see [Tags](/tags/)

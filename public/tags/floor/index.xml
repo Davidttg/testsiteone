@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Floor on Hugo lives here</title>
-    <link>http://hugo.david.work/tags/floor/</link>
-    <description>Recent content in Floor on Hugo lives here</description>
+    <title>Floor on Something lives here</title>
+    <link>https://amazing-lumiere-f876d4.netlify.com/tags/floor/</link>
+    <description>Recent content in Floor on Something lives here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Dec 2018 15:55:34 +1300</lastBuildDate>
     
-	<atom:link href="http://hugo.david.work/tags/floor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-lumiere-f876d4.netlify.com/tags/floor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Code</title>
-      <link>http://hugo.david.work/posts/my-code-post/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/posts/my-code-post/</link>
       <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/posts/my-code-post/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/posts/my-code-post/</guid>
       <description>Init the code We start with public void we don&amp;rsquo;t wish to alarm people
 var fileDialog = new System.Windows.Forms.OpenFileDialog(); fileDialog.Filter = &amp;quot;Image files (*.jpg)|*.jpg|All files (*.*)|*.*&amp;quot;; var result = fileDialog.ShowDialog(); switch (result) { case System.Windows.Forms.DialogResult.OK: var file = fileDialog.FileName; TxtImgFile.Text = file; TxtImgFile.ToolTip = file; break; case System.Windows.Forms.DialogResult.Cancel: default: TxtImgFile.Text = null; TxtImgFile.ToolTip = null; break; }  Testing the code function uuid() { function randomDigit() { if (crypto &amp;amp;&amp;amp; crypto.</description>
     </item>
     
     <item>
       <title>The fuel</title>
-      <link>http://hugo.david.work/posts/my-1-post/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/posts/my-1-post/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/posts/my-1-post/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/posts/my-1-post/</guid>
       <description>On the floor Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus et ipsum ut blandit. Curabitur blandit sem ante, interdum placerat velit ornare id. Curabitur velit eros, ullamcorper et efficitur a, rhoncus a urna. Suspendisse a aliquam elit. Morbi sed felis orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</description>
     </item>
     

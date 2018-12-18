@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning Centric on Hugo lives here</title>
-    <link>http://hugo.david.work/tags/learning-centric/</link>
-    <description>Recent content in Learning Centric on Hugo lives here</description>
+    <title>Learning Centric on Something lives here</title>
+    <link>https://amazing-lumiere-f876d4.netlify.com/tags/learning-centric/</link>
+    <description>Recent content in Learning Centric on Something lives here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 15:55:34 +1300</lastBuildDate>
     
-	<atom:link href="http://hugo.david.work/tags/learning-centric/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-lumiere-f876d4.netlify.com/tags/learning-centric/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LEARNING CENTRIC</title>
-      <link>http://hugo.david.work/posts/features/features-2/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-2/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/posts/features/features-2/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/posts/features/features-2/</guid>
       <description>LEARNING CENTRIC Bracken guides learners through their training using pathways. Pathways help by assigning the right learning at the right times to ensure the learner is receiving clear and relevant information.
 Learning is broken into small chunks, which are rich in media and interactive, which help motivate, focus attention and improve retention. While also providing personalised feedback along the way, to ensure they understand the information.
 The text-to-speech function in Bracken makes courses accessible to learners with literacy or visual difficulties.</description>

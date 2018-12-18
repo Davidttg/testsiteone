@@ -1,112 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo lives here</title>
-    <link>http://hugo.david.work/tags/</link>
-    <description>Recent content in Tags on Hugo lives here</description>
+    <title>Tags on Something lives here</title>
+    <link>https://amazing-lumiere-f876d4.netlify.com/tags/</link>
+    <description>Recent content in Tags on Something lives here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 15:55:34 +1300</lastBuildDate>
     
-	<atom:link href="http://hugo.david.work/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-lumiere-f876d4.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Powerful Authoring Tool</title>
-      <link>http://hugo.david.work/tags/a-powerful-authoring-tool/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/a-powerful-authoring-tool/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/a-powerful-authoring-tool/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/a-powerful-authoring-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Csharp</title>
-      <link>http://hugo.david.work/tags/csharp/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/csharp/</link>
       <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/csharp/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/csharp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ending</title>
-      <link>http://hugo.david.work/tags/ending/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/ending/</link>
       <pubDate>Sat, 01 Dec 2018 15:51:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/ending/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/ending/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://hugo.david.work/tags/experience/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/experience/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/experience/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature</title>
-      <link>http://hugo.david.work/tags/feature/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/feature/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/feature/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/feature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Floor</title>
-      <link>http://hugo.david.work/tags/floor/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/floor/</link>
       <pubDate>Sat, 15 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/floor/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/floor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Centric</title>
-      <link>http://hugo.david.work/tags/learning-centric/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/learning-centric/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/learning-centric/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/learning-centric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Management</title>
-      <link>http://hugo.david.work/tags/learning-management/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/learning-management/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/learning-management/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/learning-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local</title>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/local/</link>
+      <pubDate>Tue, 18 Dec 2018 00:34:36 +0000</pubDate>
+      
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/local/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rug</title>
-      <link>http://hugo.david.work/tags/rug/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/rug/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/rug/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/rug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start</title>
-      <link>http://hugo.david.work/tags/start/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/start/</link>
       <pubDate>Sat, 01 Dec 2018 15:51:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/start/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/start/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://hugo.david.work/tags/video/</link>
+      <link>https://amazing-lumiere-f876d4.netlify.com/tags/video/</link>
       <pubDate>Sun, 02 Dec 2018 15:55:34 +1300</pubDate>
       
-      <guid>http://hugo.david.work/tags/video/</guid>
+      <guid>https://amazing-lumiere-f876d4.netlify.com/tags/video/</guid>
       <description></description>
     </item>
     
