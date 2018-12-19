@@ -1,0 +1,5 @@
+public/
+themes/silhouette-hugo/
+ftp-config.json
+gh-config.toml*
+node_modules
