@@ -2,7 +2,7 @@ baseURL = "https://amazing-lumiere-f876d4.netlify.com/"
 languageCode = "en-us"
 title = "Something lives here"
 #theme = "gohugo-theme-ananke"
-#theme = "silhouette-hugo"
+theme = "hyde-y-master"
 
 
 [sitemap]
@@ -19,8 +19,8 @@ title = "Something lives here"
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://facebook.com/david9013"
-  twitter = "https://twitter.com/GoHugoIO"
+  facebook = "david9013"
+  twitter = "GoHugoIO"
   instagram = ""
   youtube = ""
   github = ""
@@ -31,3 +31,6 @@ title = "Something lives here"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 4
   sidebar = "left"
+  brand = "Monster"
+  topline = "Playing with toys"
+  footline = "code with <i class='fa fa-heart'></i>"

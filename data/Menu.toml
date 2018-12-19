@@ -11,3 +11,13 @@
     Name = "Tags"
     Title = "Show list of tags"
     URL = "/tags"
+
+[topics]
+    Name = "Topics"
+    Title = "Show list of topics"
+    URL = "/topics"
+
+[services]
+    Name = "Services"
+    Title = "My services"
+    URL = "/services"
