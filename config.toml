@@ -1,7 +1,8 @@
 baseURL = "https://amazing-lumiere-f876d4.netlify.com/"
 languageCode = "en-us"
 title = "Something lives here"
-theme = "gohugo-theme-ananke"
+#theme = "gohugo-theme-ananke"
+#theme = "silhouette-hugo"
 
 
 [sitemap]
@@ -12,6 +13,7 @@ theme = "gohugo-theme-ananke"
 [taxonomies]
    tag = "tags"
    category = "categories"
+   topic = "topics"
 
 
 [params]
@@ -28,3 +30,4 @@ theme = "gohugo-theme-ananke"
   background_color_class = "bg-dark-gray"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 4
+  sidebar = "left"
