@@ -1,10 +1,10 @@
 ---
 title: In the world today
-date: 2019-05-01T02:51:34.000Z
-categories:
-  - News
-tags:
-  - Rubbish
+date: 2019-05-01T00:00:00.0000000
+categories: [News]
+tags: [Rubbish]
+draft: false
+description: News from GZ
 ---
 
 ## Motorola Solutions joins local partners to deliver advanced communications network
