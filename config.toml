@@ -1,5 +1,5 @@
-#baseURL = "https://amazing-lumiere-f876d4.netlify.com"
-baseURL = "http://david.work:8001"
+baseURL = "https://amazing-lumiere-f876d4.netlify.com"
+#baseURL = "http://david.work:8001"
 languageCode = "en-us"
 title = "Something lives here"
 #theme = "gohugo-theme-ananke"
